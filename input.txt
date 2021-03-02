@@ -1,0 +1,36 @@
+A A, B, C, E, F, G, L
+B A, B, C, D, J, L, N
+C A, D, E, F
+D A, B, C, D, J, N
+E A, D, E, F, G
+F A, E, F, G
+G A, C, D, E, F, L
+H B, C, E, F, G, L
+I A, D, J, N
+J B, C, D, E
+K E, F, G, K, M
+L D, E, F
+M B, C, E, F, H, K
+N B, C, E, F, H, M
+O A, B, C, D, E, F
+P A, B, E, F, G, L
+Q A, B, C, D, E, F, M
+R A, B, E, F, G, L, M
+S A, C, D, F, G, L
+T A, J, N
+U B, C, D, E, F
+V E, F, K, P
+W B, C, E, F, M, P
+X H, K, M, P
+Y B, C, D, F, G, L
+Z A, D, K, P
+0 A, B, C, D, E, F, K, P
+1 B, C, K
+2 A, B, D, E, G, L
+3 A, B, C, D, L
+4 B, C, F, G, L
+5 A, D, F, G, M
+6 A, C, D, E, F, G, L
+7 A, B, C
+8 A, B, C, D, E, F, G, L
+9 A, B, C, D, F, G, L
